@@ -9549,11 +9549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3NunitMoqTest\\Phase3JenkinsProj\\Phase3JenkinsProj\\Phase3JenkinsProj.csproj",
+      "projectUniqueName": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3JenkinsProj\\Phase3JenkinsProj\\Phase3JenkinsProj.csproj",
       "projectName": "Phase3JenkinsProj",
-      "projectPath": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3NunitMoqTest\\Phase3JenkinsProj\\Phase3JenkinsProj\\Phase3JenkinsProj.csproj",
+      "projectPath": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3JenkinsProj\\Phase3JenkinsProj\\Phase3JenkinsProj.csproj",
       "packagesPath": "C:\\Users\\Prashast Vats\\.nuget\\packages\\",
-      "outputPath": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3NunitMoqTest\\Phase3JenkinsProj\\Phase3JenkinsProj\\obj\\",
+      "outputPath": "D:\\Mphasis\\Live-Session\\SimpliLearn Projects\\Practice Projects\\Phase3JenkinsProj\\Phase3JenkinsProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prashast Vats\\AppData\\Roaming\\NuGet\\NuGet.Config",
